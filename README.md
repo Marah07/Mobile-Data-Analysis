@@ -1,7 +1,5 @@
 # Mobile-Data-Analysis
 
-Mobile Data Analysis Project
-
 This project is structured into two primary components: Trajectory DataFrame and Flow DataFrame analysis, powered by the scikit-mobility library, unfolds as follows:
 
 Trajectory DataFrame:
