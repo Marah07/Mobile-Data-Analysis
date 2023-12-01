@@ -18,6 +18,6 @@ Addressing specific aspects of the check-in data collected in New York City (NYC
   
 - Utilizing the NY_counties_2011.geojson dataset to create a Flow DataFrame (fdf)
 - Visualizing trajectories and flow patterns to gain insights into the spatial-temporal regularity of user activity.
-- Implementing visualization techniques for both Trajectory and Flow DataFrames, enriching the understanding of mobility patterns in urban environments.
+- Implementing visualization techniques enriching the understanding of mobility patterns.
   
 The repository includes Jupyter Notebook files for each step of the analysis for both Trajectory and Flow DataFrames, ensuring code reproducibility. Relevant datasets (nyc DataFrame and GeoJSON file) for spatial visualization are also included. This project aims to offer a comprehensive exploration of mobile data analysis techniques, providing nuanced insights into user mobility patterns through visualizations in large-scale urban environments.
